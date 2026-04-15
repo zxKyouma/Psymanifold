@@ -1,0 +1,10 @@
+outputs/
+outputs_clean_rerun/
+outputs_clean_rerun_test/
+timeseries/
+.cache/
+logs/
+__pycache__/
+*.pyc
+*.pyo
+*.mat
