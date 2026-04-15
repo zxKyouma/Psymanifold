@@ -102,7 +102,7 @@ python summarize_results.py
 ```
 
 ### Step 8 - Generate manuscript result tables
-*Writes the final supporting tables for Results 2.1?2.6 into the `outputs/`
+*Writes the final supporting tables for Results 2.1-2.6 into the `outputs/`
 directory.*
 ```bash
 python run_manuscript_results.py
